@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+/* header{
+    position:fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 35px 20%;
+}
+.navbar{
+    display: flex;
+}
+.navbar a{
+    font-size: ;
+    font-weight: ;
+    color: ;
+
+    margin: 0 25px;
+    color: #FFFFFF;
+    transition: all ease .05s;
+    
+} */
